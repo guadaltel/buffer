@@ -24,7 +24,7 @@
   "files": {
     "ol": {
       "scripts": "buffer.ol.min.js",
-      "styles": "buffer.min.css"
+      "styles": "buffer.ol.min.css"
     }
   },
   "metadata": {
