@@ -23,8 +23,8 @@
   }],
   "files": {
     "ol": {
-      "scripts": [],
-      "styles": []
+      "scripts": "buffer.ol.min.js",
+      "styles": "buffer.min.css"
     }
   },
   "metadata": {
