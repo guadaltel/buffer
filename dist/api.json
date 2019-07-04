@@ -29,8 +29,8 @@
   },
   "metadata": {
     "name": "Buffer",
-    "description": "Description of the plugin",
-    "text": "A full text about plugin",
+    "description": "Dibuja un buffer",
+    "text": "Dibuja un buffer sobre una linea, poligono o punto que se debuje sobre el mapa.",
     "version": "1.0.0",
     "date": "Jun 26, 2019",
     "author": "",
