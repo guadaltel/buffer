@@ -30,7 +30,7 @@
   "metadata": {
     "name": "Buffer",
     "description": "Dibuja un buffer",
-    "text": "Dibuja un buffer sobre una linea, poligono o punto que se debuje sobre el mapa.",
+    "text": "Dibuja un buffer sobre una linea, polígono o punto que se dibuje sobre el mapa.",
     "version": "1.0.0",
     "date": "Jun 26, 2019",
     "author": "",
