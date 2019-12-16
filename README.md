@@ -25,10 +25,6 @@ Plugin que genera un buffer o un área de influencia sobre un punto, linea o pol
     - 'BL':bottom left
     - 'BR':bottom right
 
-- **classname**. Indica el nombre de la class que contiene el panel donde se encuentra el control. No es necesario añadir este parametro. Su uso específico es para añadir estilos propios.
-
-- **collapsible**. Booleano que indica si el plugin se puede cerrar o si por el contrario aparece siempre desplegado.
-
 ## Eventos
 
 
