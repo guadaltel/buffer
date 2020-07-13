@@ -25,11 +25,9 @@ Plugin que genera un buffer o un área de influencia sobre un punto, linea o pol
     - 'BL':bottom left
     - 'BR':bottom right
 
-## Eventos
+- **collapsible**. Si es *true*, el botón aparece, y puede desplegarse y contraerse. Si es *false*, el botón no aparece. Por defecto tiene el valor *true*.
 
-
-## Otros métodos
-
+- **collapsed**. Si es *true*, el panel aparece cerrado. Si es *false*, el panel aparece abierto. Por defecto tiene el valor *true*.
 
 ## Ejemplos de uso
 
@@ -49,7 +47,6 @@ Plugin que genera un buffer o un área de influencia sobre un punto, linea o pol
 ```javascript
 const mp = new M.plugin.Buffer({
   position: 'BR',
-  classname: 'm-class-name',
   collapsible: false
 });
 
